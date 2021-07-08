@@ -1,0 +1,14 @@
+ipykernel
+jupyter
+cython
+twine
+black
+click
+click_help_colors
+stopwds
+autoflake
+wheel
+numpy
+requests
+
+
