@@ -62,5 +62,7 @@ from nlpdatasets import *
 
 
 ## Acknowlegements
-*   The project is inspired by [HuggingFace/Datasets](https://pypi.org/project/datasets/)
-
+*   [HuggingFace/Datasets](https://pypi.org/project/datasets/)
+* [Tensorflow/Datasets](https://github.com/tensorflow/datasets)
+* [NLP chinese corpus](https://github.com/brightmart/nlp_chinese_corpus)
+* [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/README.md)

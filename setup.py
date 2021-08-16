@@ -19,7 +19,7 @@ def read_requirements(filename):
 
 NAME='nlpdatasets'
 DESCRIPTION = (
-    "Nlpdatasets is an open library of NLP datasets 🐳"
+    "Nlpdatasets is an open library of NLP datasets."
 )
 
 
